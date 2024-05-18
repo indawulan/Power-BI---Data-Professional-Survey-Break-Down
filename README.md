@@ -1,8 +1,8 @@
-Power BI - Data Professional Survey Break Down
-Project Overview
+# Power BI - Data Professional Survey Breakdown
+# Project Overview
 This project aims to present visualizations from a survey on data professional careers conducted by the YouTube channel AlexTheAnalyst. The survey was distributed via social media and will be analyzed based on the questions included in the survey.
 
-Data Sets
+# Data Sets
 The data collected through social media:
 
 Power BI - Final Project.xlsx: GitHub Repository
