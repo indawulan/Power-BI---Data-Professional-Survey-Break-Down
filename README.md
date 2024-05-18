@@ -33,3 +33,6 @@ Visualization process in Power BI:
 - Creating a hierarchy map to visualize the participants' countries and compare average salaries across countries.
 - Using gauge charts to display job satisfaction levels based on the survey.
 - Visualizing data on the difficulty of entering the data field based on the survey.
+
+  ![Data Professional Survey](https://github.com/indawulan/Power-BI---Data-Professional-Survey-Break-Down/assets/56012283/b6f4a7db-fce8-4762-8d84-a7da8bc3ddaf)
+
