@@ -5,7 +5,7 @@ This project aims to present visualizations from a survey on data professional c
 # Data Sets
 The data collected through social media:
 
-Power BI - Final Project.xlsx: GitHub Repository
+- [Power BI - Final Project](https://github.com/AlexTheAnalyst/Power-BI.git)
 
 # Research Questions
 Some questions from the survey that will be analyzed:
